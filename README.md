@@ -42,7 +42,7 @@ Web application developer specialized in frontend. I excel at creating intuitive
 &nbsp;
 [<img alt="vemmolinas | LinkedIn" width="33px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
   &nbsp;
-[<img alt="vemmolinas | Skype" width="33px" src="https://img.icons8.com/color/48/000000/skype.png" />][instagram]
+[<img alt="vemmolinas | Skype" width="33px" src="https://img.icons8.com/color/48/000000/skype.png" />][skype]
   &nbsp;
 [<img alt="vemmolinas | Twitter" width="33px" src="https://img.icons8.com/color/48/000000/twitter.png" />][twitter]
   &nbsp;
@@ -53,4 +53,5 @@ Web application developer specialized in frontend. I excel at creating intuitive
 [twitter]: https://twitter.com/vemmolinas
 [instagram]: https://instagram.com/vemmolinas
 [linkedin]: https://linkedin.com/in/vemmolinas
+[skype]: https://join.skype.com/invite/lxh6hpAXp0Uf
 [#]: https://github.com/vemmolinas
