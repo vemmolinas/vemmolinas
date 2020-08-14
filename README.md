@@ -29,7 +29,7 @@ Web application developer specialized in frontend. I excel at creating intuitive
 
 
 <!-- -->
-- 🔭 I’m currently working on small personal projects and I’m also looking for a job. Let me know if you know something interesting!
+- 🔭 I’m currently working on small personal projects and I’m also looking for a job. Let me know if you hear something interesting!
 - 🌱 I’m currently learning about Javascript frameworks
 - 👯 I’m looking to collaborate on front-end projects
 - ⚡ Fun fact: I was born in Argentina, but I have been living in Spain for more than half my life
