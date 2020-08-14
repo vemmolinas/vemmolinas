@@ -20,9 +20,6 @@
 [<img align="left" alt="CMD" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][#]
 
 
-
-
-
 ---
 
 ### Hi there 👋 I'm Emmanuel
@@ -31,20 +28,20 @@ Web application developer specialized in frontend. I excel at creating intuitive
 
 
 <!-- -->
-- 🔭 I’m currently looking for work
+- 🔭 I’m currently working on small personal projects and I’m also looking for a job. Let me know if you know something interesting!
 - 🌱 I’m currently learning about Javascript frameworks
 - 👯 I’m looking to collaborate on front-end projects
-<!--  - 📫 You can reach me on [Twitter](https://twitter.com/vemmolinas) and [Instagram](https://instagram.com/vemmolinas). -->
-- ⚡ Fun fact: I was born in Argentina but have been living in Spain for more than half my life
+- ⚡ Fun fact: I was born in Argentina, but I have been living in Spain for more than half my life
+- 💬 Ask me about anything!! If I don't know the subject, we can reseach it together.
+<!-- - 📫 You can reach me on [Twitter](https://twitter.com/vemmolinas) and [Instagram](https://instagram.com/vemmolinas). -->
 <!-- - 🤔 I’m looking for help with ... -->
-<!-- - 💬 Ask me about ... -->
 <!-- - 😄 Pronouns: ... -->
 ### Connect with me:
 
-[<img align="left" alt="vemmolinas.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="vemmolinas | LinkedIn" width="22px" src="https://simpleicons.org/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="vemmolinas | Twitter" width="22px" src="https://simpleicons.org/icons/twitter.svg" />][twitter]
-[<img align="left" alt="vemmolinas | Instagram" width="22px" src="https://simpleicons.org/icons/instagram.svg" />][instagram]
+[<img align="left" alt="vemmolinas.dev" width="32px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="vemmolinas | LinkedIn" width="32px" src="https://simpleicons.org/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="vemmolinas | Twitter" width="32px" src="https://simpleicons.org/icons/twitter.svg" />][twitter]
+[<img align="left" alt="vemmolinas | Instagram" width="32px" src="https://simpleicons.org/icons/instagram.svg" />][instagram]
 
 
 [website]: https://vemmolinas.dev
