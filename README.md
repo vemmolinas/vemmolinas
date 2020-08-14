@@ -38,15 +38,15 @@ Web application developer specialized in frontend. I excel at creating intuitive
 <!-- - 😄 Pronouns: ... -->
 
 [<div align="center">][#]
-[<img target="_blank" alt="vemmolinas.dev" width="33px" src="https://img.icons8.com/color/48/000000/web.png" />][website]
+[<img alt="vemmolinas.dev" width="33px" src="https://img.icons8.com/color/48/000000/web.png" />][website]
 &nbsp;
-[<img target="_blank" alt="vemmolinas | LinkedIn" width="33px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
+[<img alt="vemmolinas | LinkedIn" width="33px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
   &nbsp;
-[<img target="_blank" alt="vemmolinas | Skype" width="33px" src="https://img.icons8.com/color/48/000000/skype.png" />][skype]
+[<img alt="vemmolinas | Skype" width="33px" src="https://img.icons8.com/color/48/000000/skype.png" />][skype]
   &nbsp;
-[<img target="_blank" alt="vemmolinas | Twitter" width="33px" src="https://img.icons8.com/color/48/000000/twitter.png" />][twitter]
+[<img alt="vemmolinas | Twitter" width="33px" src="https://img.icons8.com/color/48/000000/twitter.png" />][twitter]
   &nbsp;
-[<img target="_blank" alt="vemmolinas | Instagram" width="33px" src="https://img.icons8.com/color/48/000000/instagram.png" />][instagram]
+[<img alt="vemmolinas | Instagram" width="33px" src="https://img.icons8.com/color/48/000000/instagram.png" />][instagram]
 [</div>][#]
 
 [website]: https://vemmolinas.dev
