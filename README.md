@@ -14,7 +14,7 @@ I have complementary backend knowledge, including relational database management
 
 
 <!-- -->
-- 🔭 I’m currently looking for working 
+- 🔭 I’m currently looking for work
 - 🌱 I’m currently learning about Javascript frameworks
 - 👯 I’m looking to collaborate on front-end projects
 - 📫 You can reach me on [Twitter](https://twitter.com/vemmolinas) and [Instagram](https://instagram.com/vemmolinas).
