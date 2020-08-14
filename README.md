@@ -38,7 +38,7 @@ Web application developer specialized in frontend. I excel at creating intuitive
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 😄 Pronouns: ... -->
 
-[<p align="center">][#]
+[<div align="center">][#]
 
 ### Connect with me:
 
@@ -49,7 +49,7 @@ Web application developer specialized in frontend. I excel at creating intuitive
 [<img alt="vemmolinas | Skype" width="30px" src="https://img.icons8.com/color/48/000000/skype.png" />][instagram]
 [<img alt="vemmolinas | Twitter" width="30px" src="https://img.icons8.com/color/48/000000/twitter.png" />][twitter]
 [<img alt="vemmolinas | Instagram" width="30px" src="https://img.icons8.com/color/48/000000/instagram.png" />][instagram]
-[</p>][#]
+[</div>][#]
 
 [website]: https://vemmolinas.dev
 [twitter]: https://twitter.com/vemmolinas
