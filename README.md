@@ -18,6 +18,7 @@
 [<img align="left" alt="DATABASES" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />]
 [<img align="left" alt="PHP" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/php-27-226042.png" />]
 
+---
 
 ### Hi there 👋 I'm Emmanuel
 
@@ -40,12 +41,9 @@ Web application developer specialized in frontend. I excel at creating intuitive
 [<img align="left" alt="ctrivinoe | LinkedIn" width="22px" src="https://simpleicons.org/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="ctrivinoe | Instagram" width="22px" src="https://simpleicons.org/icons/instagram.svg" />][instagram]
 
----
+
 [website]: https://vemmolinas.dev
 [twitter]: https://twitter.com/vemmolinas
 [instagram]: https://instagram.com/vemmolinas
 [linkedin]: https://linkedin.com/in/vemmolinas
 [#]: https://github.com/vemmolinas
-
-
-
