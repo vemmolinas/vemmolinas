@@ -41,7 +41,7 @@ Web application developer specialized in frontend. I excel at creating intuitive
 ### Connect with me:
 
 [<p align="center">]
-[<img alt="vemmolinas.dev" width="30px" src="https://img.icons8.com/color/48/000000/site.png" />][website]
+[<img alt="vemmolinas.dev" width="30px" src="https://img.icons8.com/color/48/000000/web.png" />][website]
 [<img alt="vemmolinas | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
 [<img alt="vemmolinas | Skype" width="30px" src="https://img.icons8.com/color/48/000000/skype.png" />][instagram]
 [<img alt="vemmolinas | Twitter" width="30px" src="https://img.icons8.com/color/48/000000/twitter.png" />][twitter]
