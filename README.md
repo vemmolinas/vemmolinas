@@ -40,12 +40,13 @@ Web application developer specialized in frontend. I excel at creating intuitive
 
 ### Connect with me:
 
-[<img align="center" alt="vemmolinas.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="center" alt="vemmolinas | LinkedIn" width="22px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
-[<img align="center" alt="vemmolinas | Skype" width="22px" src="https://img.icons8.com/color/48/000000/skype.png" />][instagram]
-[<img align="center" alt="vemmolinas | Twitter" width="22px" src="https://img.icons8.com/color/48/000000/twitter.png" />][twitter]
-[<img align="center" alt="vemmolinas | Instagram" width="22px" src="https://img.icons8.com/color/48/000000/instagram.png" />][instagram]
-
+<p align="center">
+[<img alt="vemmolinas.dev" width="30px" src="https://img.icons8.com/color/48/000000/site.png" />][website]
+[<img alt="vemmolinas | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
+[<img alt="vemmolinas | Skype" width="30px" src="https://img.icons8.com/color/48/000000/skype.png" />][instagram]
+[<img alt="vemmolinas | Twitter" width="30px" src="https://img.icons8.com/color/48/000000/twitter.png" />][twitter]
+[<img alt="vemmolinas | Instagram" width="30px" src="https://img.icons8.com/color/48/000000/instagram.png" />][instagram]
+</p>
 
 [website]: https://vemmolinas.dev
 [twitter]: https://twitter.com/vemmolinas
