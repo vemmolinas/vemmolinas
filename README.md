@@ -38,8 +38,8 @@ Web application developer specialized in frontend. I excel at creating intuitive
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 😄 Pronouns: ... -->
 
-<br>
-[<div align="center">][#]
+
+[<br><div align="center">][#]
 [<img alt="vemmolinas.dev" width="33px" src="https://img.icons8.com/color/48/000000/web.png" />][website]
 &nbsp;
 [<img alt="vemmolinas | LinkedIn" width="33px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
