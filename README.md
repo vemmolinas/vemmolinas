@@ -5,20 +5,20 @@
 ![](https://media-exp1.licdn.com/dms/image/C4D16AQGksvbmjQIuaQ/profile-displaybackgroundimage-shrink_350_1400/0?e=1602720000&v=beta&t=ptNCFdyBj84_guBNkSoRJ1hygY8mmcUCF2yUC4whOgw)
 
 <div align="center">
-[<img alt="GIT" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][#]&nbsp;
-[<img alt="GIT" width="32px" src="https://img.icons8.com/color/48/000000/git.png" />][#]&nbsp;
-[<img alt="GITHUB" width="32px" src="https://img.icons8.com/color/48/000000/github.png" />][#]&nbsp;
-[<img alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][#]&nbsp;
-[<img alt="CSS3" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][#]&nbsp;
-[<img alt="SASS" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][#]&nbsp;
-[<img alt="BOOTSTRAP" width="32px" src="https://img.icons8.com/color/48/000000/bootstrap.png" />][#]&nbsp;
-[<img alt="JAVASCRIPT" width="32px" src="https://img.icons8.com/color/48/000000/javascript.png" />][#]&nbsp;
-[<img alt="JQUERY" width="32px" src="https://img.icons8.com/color/48/000000/jquery.png" />][#]&nbsp;
-[<img alt="PHP" width="32px" src="https://cdn.iconscout.com/icon/free/png-512/php-27-226042.png" />][#]&nbsp;
-[<img alt="LARAVEL" width="32px" src="https://img.icons8.com/color/48/000000/laravel.png" />][#]&nbsp;
-[<img alt="MYSQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][#]&nbsp;
-[<img alt="DATABASES" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][#]&nbsp;
-[<img alt="CMD" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][#]&nbsp;
+<img alt="GIT" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />&nbsp;
+<img alt="GIT" width="32px" src="https://img.icons8.com/color/48/000000/git.png" />&nbsp;
+<img alt="GITHUB" width="32px" src="https://img.icons8.com/color/48/000000/github.png" />&nbsp;
+<img alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />&nbsp;
+<img alt="CSS3" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />&nbsp;
+<img alt="SASS" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />&nbsp;
+<img alt="BOOTSTRAP" width="32px" src="https://img.icons8.com/color/48/000000/bootstrap.png" />&nbsp;
+<img alt="JAVASCRIPT" width="32px" src="https://img.icons8.com/color/48/000000/javascript.png" />&nbsp;
+<img alt="JQUERY" width="32px" src="https://img.icons8.com/color/48/000000/jquery.png" />&nbsp;
+<img alt="PHP" width="32px" src="https://cdn.iconscout.com/icon/free/png-512/php-27-226042.png" />&nbsp;
+<img alt="LARAVEL" width="32px" src="https://img.icons8.com/color/48/000000/laravel.png" />&nbsp;
+<img alt="MYSQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />&nbsp;
+<img alt="DATABASES" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />&nbsp;
+<img alt="CMD" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />&nbsp;
 </div>
 
 ---
