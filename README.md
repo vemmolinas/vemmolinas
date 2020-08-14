@@ -4,7 +4,7 @@
 -->
 ![](https://media-exp1.licdn.com/dms/image/C4D16AQGksvbmjQIuaQ/profile-displaybackgroundimage-shrink_350_1400/0?e=1602720000&v=beta&t=ptNCFdyBj84_guBNkSoRJ1hygY8mmcUCF2yUC4whOgw)
 
-[<div align="center">][#]
+<div align="center">
 [<img alt="GIT" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][#]&nbsp;
 [<img alt="GIT" width="32px" src="https://img.icons8.com/color/48/000000/git.png" />][#]&nbsp;
 [<img alt="GITHUB" width="32px" src="https://img.icons8.com/color/48/000000/github.png" />][#]&nbsp;
@@ -19,7 +19,7 @@
 [<img alt="MYSQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][#]&nbsp;
 [<img alt="DATABASES" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][#]&nbsp;
 [<img alt="CMD" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][#]&nbsp;
-[</div>][#]
+</div>
 
 ---
 
