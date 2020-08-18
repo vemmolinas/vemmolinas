@@ -58,6 +58,6 @@ Web application developer specialized in frontend. I excel at creating intuitive
 [skype]: https://join.skype.com/invite/lxh6hpAXp0Uf
 [#]: https://github.com/vemmolinas
 
-
+[<div align="center">][#]
 ![](https://media1.tenor.com/images/7cf5f24769193a4a1aab24f2e3d9e508/tenor.gif?itemid=13774600)
-
+[</div>][#]
