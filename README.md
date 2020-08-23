@@ -52,8 +52,8 @@ Web application developer specialized in frontend. I excel at creating intuitive
 [</div>][#]
 
 [website]: https://vemmolinas.dev
-[twitter]: https://twitter.com/vemmolinas
-[instagram]: https://instagram.com/vemmolinas
+[twitter]: https://twitter.com/vemmolinas_dev
+[instagram]: https://www.instagram.com/vemmolinas.dev/
 [linkedin]: https://linkedin.com/in/vemmolinas
 [skype]: https://join.skype.com/invite/lxh6hpAXp0Uf
 [#]: https://github.com/vemmolinas
