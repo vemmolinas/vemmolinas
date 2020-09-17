@@ -13,9 +13,9 @@
 [<img alt="SASS" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][#]&nbsp;
 [<img alt="BOOTSTRAP" width="32px" src="https://img.icons8.com/color/48/000000/bootstrap.png" />][#]&nbsp;
 [<img alt="JAVASCRIPT" width="32px" src="https://img.icons8.com/color/48/000000/javascript.png" />][#]&nbsp;
-[<img alt="JQUERY" width="32px" src="https://i0.pngocean.com/files/419/105/283/product-design-logo-brand-organization-jquery-icon-thumb.jpg" />][#]&nbsp;
+[<img alt="JQUERY" width="32px" src="https://icon2.cleanpng.com/20180816/zzp/kisspng-jquery-computer-icons-port-jquery-icon-shared-by-astrid-1-2565-jmkxyy-5b7604c33bcf95.444611321534461123245.jpg" />][#]&nbsp;
 [<img alt="PHP" width="32px" src="https://cdn.iconscout.com/icon/free/png-512/php-27-226042.png" />][#]&nbsp;
-[<img alt="LARAVEL" width="32px" src="https://e7.pngegg.com/pngimages/560/321/png-clipart-peach-colored-and-blue-line-logo-laravel-logo-icons-logos-emojis-tech-companies.png" />][#]&nbsp;
+[<img alt="LARAVEL" width="32px" src="https://cdn.iconscout.com/icon/free/png-512/laravel-2038872-1720085.png" />][#]&nbsp;
 [<img alt="MYSQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][#]&nbsp;
 [<img alt="DATABASES" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][#]&nbsp;
 [<img alt="CMD" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][#]
