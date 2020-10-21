@@ -2,7 +2,9 @@
 <!--
 **vemmolinas/vemmolinas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-![](https://media-exp1.licdn.com/dms/image/C4D16AQGksvbmjQIuaQ/profile-displaybackgroundimage-shrink_200_800/0?e=1608768000&v=beta&t=r6NJHn1w6MVS7TN8zSIeeaRDj7xPmN2gvlAADaJggXs)
+
+[<img alt="portada" width="100%px" src="https://media-exp1.licdn.com/dms/image/C4D16AQGksvbmjQIuaQ/profile-displaybackgroundimage-shrink_200_800/0?e=1608768000&v=beta&t=r6NJHn1w6MVS7TN8zSIeeaRDj7xPmN2gvlAADaJggXs" />][#]&nbsp;
+
 
 [<div align="center">][#]
 [<img alt="GIT" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][#]&nbsp;
