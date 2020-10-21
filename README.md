@@ -25,18 +25,18 @@
 
 ### Hi there 👋 I'm Emmanuel
 
-Web application developer specialized in frontend. I excel at creating intuitive user interfaces, thought out in detail to achieve optimal user-flow and a satisfying experience. Advanced level in HTML, CSS and JavaScript languages. In my designs, clarity and a very user-oriented vision prevail, so that the application always fulfills its fundamental mission: to solve problems effectively. I have complementary backend knowledge, including relational database management with MySQL and information processing with PHP. Analytical and methodical, always aimed at obtaining results. 
-
+I am a recently qualified web application developer and I am mostly specialized in frontend. Advanced level in HTML, CSS and JavaScript languages. Clarity and a very user-oriented vision prevail in my designs, so that the application always fulfills its fundamental mission: to solve problems effectively. I have complementary backend knowledge, including relational database management with MySQL and information processing with PHP. Analytical and methodical, always oriented to obtain results. I firmly believe that I can bring much of my extensive experience in other sectors, as well as the enthusiasm of a person who has taken a complete turn to pursue his or her true passion.
 
 <!-- -->
-- 🔭 I’m currently working on small personal projects and I’m also looking for a job. Let me know if you hear something interesting!
-- 🌱 I’m currently learning about Javascript frameworks
-- 👯 I’m looking to collaborate on front-end projects
-- ⚡ Fun fact: I was born in Argentina, but I have been living in Spain for more than half my life
+- 🔭 I’m currently working on small personal projects!
+- 🌱 I’m currently learning about android development.
+- 👯 I’m looking to collaborate on front-end projects.
+- 😄 Pronouns: he/him.
+- ⚡ Fun fact: even though it sounds like a girl's name, my friends call me Emma.
 - 💬 Ask me about anything!! If I don't know the subject, we can reseach it together.
+
 <!-- - 📫 You can reach me on [Twitter](https://twitter.com/vemmolinas) and [Instagram](https://instagram.com/vemmolinas). -->
 <!-- - 🤔 I’m looking for help with ... -->
-<!-- - 😄 Pronouns: ... -->
 
 
 [<br><div align="center">][#]
@@ -48,7 +48,7 @@ Web application developer specialized in frontend. I excel at creating intuitive
   &nbsp;
 [<img alt="vemmolinas | Twitter" width="33px" src="https://img.icons8.com/color/48/000000/twitter.png" />][twitter]
   &nbsp;
-[<img alt="vemmolinas | Instagram" width="33px" src="https://img.icons8.com/color/48/000000/instagram.png" />][instagram]
+<!-- [<img alt="vemmolinas | Instagram" width="33px" src="https://img.icons8.com/color/48/000000/instagram.png" />][instagram] -->
 [</div>][#]
 
 [website]: https://vemmolinas.dev
