@@ -38,10 +38,10 @@ I firmly believe that I can bring much of my extensive experience in other secto
 - 🔭 I’m currently working on small personal projects!
 - 🌱 I’m currently learning about android development.
 - 👯 I’m looking to collaborate on front-end projects.
-- 😄 Pronouns: he/him.
-- ⚡ Fun fact: even though it sounds like a girl's name, my friends call me Emma.
+- ⚡ Fun fact: Even though it sounds like a girl's name, my friends call me Emma.
 - 💬 Ask me about anything!! If I don't know the subject, we can reseach it together.
 
+<!-- - 😄 Pronouns: he/him. -->
 <!-- - 📫 You can reach me on [Twitter](https://twitter.com/vemmolinas) and [Instagram](https://instagram.com/vemmolinas). -->
 <!-- - 🤔 I’m looking for help with ... -->
 
