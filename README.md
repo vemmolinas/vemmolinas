@@ -2,7 +2,7 @@
 <!--
 **vemmolinas/vemmolinas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-![](https://media-exp1.licdn.com/dms/image/C4D16AQGksvbmjQIuaQ/profile-displaybackgroundimage-shrink_350_1400/0?e=1602720000&v=beta&t=ptNCFdyBj84_guBNkSoRJ1hygY8mmcUCF2yUC4whOgw)
+![](https://media-exp1.licdn.com/dms/image/C4D16AQGksvbmjQIuaQ/profile-displaybackgroundimage-shrink_200_800/0?e=1608768000&v=beta&t=r6NJHn1w6MVS7TN8zSIeeaRDj7xPmN2gvlAADaJggXs)
 
 [<div align="center">][#]
 [<img alt="GIT" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][#]&nbsp;
@@ -25,7 +25,11 @@
 
 ### Hi there 👋 I'm Emmanuel
 
-I am a recently qualified web application developer and I am mostly specialized in frontend. Advanced level in HTML, CSS and JavaScript languages. Clarity and a very user-oriented vision prevail in my designs, so that the application always fulfills its fundamental mission: to solve problems effectively. I have complementary backend knowledge, including relational database management with MySQL and information processing with PHP. Analytical and methodical, always oriented to obtain results. I firmly believe that I can bring much of my extensive experience in other sectors, as well as the enthusiasm of a person who has taken a complete turn to pursue his or her true passion.
+I am a recently qualified web application developer and I am mostly specialized in frontend. Advanced level in HTML, CSS and JavaScript languages. Clarity and a very user-oriented vision prevail in my designs, so that the application always fulfills its fundamental mission: to solve problems effectively.
+
+I have complementary backend knowledge, including relational database management with MySQL and information processing with PHP. Analytical and methodical, always oriented to obtain results.
+
+I firmly believe that I can bring much of my extensive experience in other sectors, as well as the enthusiasm of a person who has taken a complete turn to pursue his or her true passion.
 
 <!-- -->
 - 🔭 I’m currently working on small personal projects!
