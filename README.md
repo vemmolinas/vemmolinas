@@ -33,6 +33,7 @@ I have complementary backend knowledge, including relational database management
 
 I firmly believe that I can bring much of my extensive experience in other sectors, as well as the enthusiasm of a person who has taken a complete turn to pursue his or her true passion.
 
+
 <!-- -->
 - 🔭 I’m currently working on small personal projects!
 - 🌱 I’m currently learning about android development.
