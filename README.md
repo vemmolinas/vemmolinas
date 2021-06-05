@@ -3,7 +3,7 @@
 **vemmolinas/vemmolinas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-[<img alt="portada" width="100%px" src="https://media-exp1.licdn.com/dms/image/C4D16AQGksvbmjQIuaQ/profile-displaybackgroundimage-shrink_200_800/0?e=1608768000&v=beta&t=r6NJHn1w6MVS7TN8zSIeeaRDj7xPmN2gvlAADaJggXs" />][#]&nbsp;
+[<img alt="portada" width="100%px" src="https://media-exp1.licdn.com/dms/image/C4D16AQGksvbmjQIuaQ/profile-displaybackgroundimage-shrink_200_800/0/1587567165726?e=1628121600&v=beta&t=V4xfNPYG54WHWf1eOnAJ-GcTVWozT_mORWnT0UC3Mno" />][#]&nbsp;
 
 
 [<div align="center">][#]
@@ -36,7 +36,7 @@ I firmly believe that I can bring much of my extensive experience in other secto
 
 <!-- -->
 - 🔭 I’m currently working on small personal projects!
-- 🌱 I’m currently learning about android development.
+- 🌱 I’m currently learning about wordpress development.
 - 👯 I’m looking to collaborate on front-end projects.
 - ⚡ Fun fact: Even though it sounds like a girl's name, my friends call me Emma.
 - 💬 Ask me about anything!! If I don't know the subject, we can reseach it together.
