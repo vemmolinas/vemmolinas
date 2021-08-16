@@ -12,7 +12,9 @@
 [<img alt="GITHUB" width="32px" src="https://img.icons8.com/color/48/000000/github.png" />][#]&nbsp;
 [<img alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][#]&nbsp;
 [<img alt="CSS3" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][#]&nbsp;
+<!--
 [<img alt="SASS" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][#]&nbsp;
+-->
 [<img alt="BOOTSTRAP" width="32px" src="https://img.icons8.com/color/48/000000/bootstrap.png" />][#]&nbsp;
 [<img alt="JAVASCRIPT" width="32px" src="https://img.icons8.com/color/48/000000/javascript.png" />][#]&nbsp;
 [<img alt="JQUERY" width="32px" src="https://www.softbit.com.co/Content/img/dev/JQuery.png" />][#]&nbsp;
