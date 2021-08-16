@@ -3,7 +3,7 @@
 **vemmolinas/vemmolinas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-[<img alt="portada" width="100%" src="" />][#]&nbsp;
+[<img alt="portada" width="100%" src="https://media-exp1.licdn.com/dms/image/C4D16AQGksvbmjQIuaQ/profile-displaybackgroundimage-shrink_200_800/0/1587567165726?e=1634774400&v=beta&t=IBCqn_jGQp-e6zcvlz4DuSJTOAlKUgI8H_uLWPsruhk" />][#]&nbsp;
 
 
 [<div align="center">][#]
