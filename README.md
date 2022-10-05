@@ -14,15 +14,17 @@
 [<img alt="PHP" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png" />][#]&nbsp;
 [<img alt="CODEIGNITER" width="32px" src="https://i0.wp.com/dmsservicesgoa.com/dms/wp-content/uploads/2018/09/codeigniter-logo.png?fit=610%2C500&ssl=1&w=640" />][#]&nbsp;
 [<img alt="MYSQL" width="32px" src="https://styles.redditmedia.com/t5_2qm6k/styles/communityIcon_dhjr6guc03x51.png" />][#]&nbsp;
-[<img alt="DATABASES" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][#]&nbsp;
 [</div>][#]
 
-<!-- [<img alt="GITHUB" width="32px" src="https://img.icons8.com/color/48/000000/github.png" />][#]&nbsp; -->
-<!-- [<img alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][#]&nbsp; -->
-<!-- [<img alt="CSS3" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][#]&nbsp; -->
-<!-- [<img alt="CMD" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][#] -->
-<!-- [<img alt="LARAVEL" width="32px" src="https://cdn.iconscout.com/icon/free/png-512/laravel-2038872-1720085.png" />][#]&nbsp; -->
-<!-- [<img alt="GIT" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][#]&nbsp; -->
+<!-- 
+[<img alt="GITHUB" width="32px" src="https://img.icons8.com/color/48/000000/github.png" />][#]&nbsp;
+[<img alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][#]&nbsp;
+[<img alt="CSS3" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][#]&nbsp;
+[<img alt="CMD" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][#]
+[<img alt="LARAVEL" width="32px" src="https://cdn.iconscout.com/icon/free/png-512/laravel-2038872-1720085.png" />][#]&nbsp;
+[<img alt="GIT" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][#]&nbsp;
+[<img alt="DATABASES" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][#]&nbsp; 
+-->
 
 ---
 
@@ -40,11 +42,13 @@ I firmly believe that I can bring much of my extensive experience in other secto
 - 👯 I’m looking to collaborate on front-end projects.
 - ⚡ Fun fact: Even though it sounds like a girl's name, my friends call me Emma.
 
-<!-- - 😄 Pronouns: he/him. -->
-<!-- - 📫 You can reach me on [Twitter](https://twitter.com/vemmolinas) and [Instagram](https://instagram.com/vemmolinas). -->
-<!-- - 🤔 I’m looking for help with ... -->
-<!-- - 🔭 I’m currently working on small personal projects! -->
-<!-- - 💬 Ask me about anything!! If I don't know the subject, we can reseach it together. -->
+<!-- 
+- 😄 Pronouns: he/him.
+- 📫 You can reach me on [Twitter](https://twitter.com/vemmolinas) and [Instagram](https://instagram.com/vemmolinas).
+- 🤔 I’m looking for help with ...
+- 🔭 I’m currently working on small personal projects!
+- 💬 Ask me about anything!! If I don't know the subject, we can reseach it together. 
+- -->
 
 
 [<br><div align="center">][#]
@@ -65,9 +69,9 @@ I firmly believe that I can bring much of my extensive experience in other secto
 [skype]: https://join.skype.com/invite/lxh6hpAXp0Uf
 [#]: https://github.com/vemmolinas
 
-<!-- 
+ 
 [<div align="center">][#]
 ![](https://media1.tenor.com/images/7cf5f24769193a4a1aab24f2e3d9e508/tenor.gif?itemid=13774600)
 [</div>][#]
--->
+
 
