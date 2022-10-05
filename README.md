@@ -12,7 +12,7 @@
 [<img alt="JAVASCRIPT" width="32px" src="https://img.icons8.com/color/48/000000/javascript.png" />][#]&nbsp;
 [<img alt="JQUERY" width="32px" src="https://www.softbit.com.co/Content/img/dev/JQuery.png" />][#]&nbsp;
 [<img alt="PHP" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png" />][#]&nbsp;
-[<img alt="CODEIGNITER" width="32px" src="https://cdn.iconscout.com/icon/free/png-512/laravel-2038872-1720085.png" />][#]&nbsp;
+[<img alt="CODEIGNITER" width="32px" src="https://i0.wp.com/dmsservicesgoa.com/dms/wp-content/uploads/2018/09/codeigniter-logo.png?fit=610%2C500&ssl=1&w=640" />][#]&nbsp;
 [<img alt="MYSQL" width="32px" src="https://styles.redditmedia.com/t5_2qm6k/styles/communityIcon_dhjr6guc03x51.png" />][#]&nbsp;
 [<img alt="DATABASES" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][#]&nbsp;
 [</div>][#]
