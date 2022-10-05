@@ -48,10 +48,15 @@ I firmly believe that I can bring much of my extensive experience in other secto
 - 🤔 I’m looking for help with ...
 - 🔭 I’m currently working on small personal projects!
 - 💬 Ask me about anything!! If I don't know the subject, we can reseach it together. 
-- -->
+- 
+-->
+ 
+[<div align="center">][#]
+![](https://media1.tenor.com/images/7cf5f24769193a4a1aab24f2e3d9e508/tenor.gif?itemid=13774600)
+[</div>][#]
 
 
-[<br><div align="center">][#]
+[<div align="center">][#]
 <!--
   [<img alt="vemmolinas.dev" width="33px" src="https://img.icons8.com/color/48/000000/web.png" />][website]
   &nbsp;
@@ -68,10 +73,3 @@ I firmly believe that I can bring much of my extensive experience in other secto
 [linkedin]: https://linkedin.com/in/vemmolinas
 [skype]: https://join.skype.com/invite/lxh6hpAXp0Uf
 [#]: https://github.com/vemmolinas
-
- 
-[<div align="center">][#]
-![](https://media1.tenor.com/images/7cf5f24769193a4a1aab24f2e3d9e508/tenor.gif?itemid=13774600)
-[</div>][#]
-
-
