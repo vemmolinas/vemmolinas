@@ -10,7 +10,7 @@
 [<img alt="GIT" width="32px" src="https://img.icons8.com/color/48/000000/git.png" />][#]&nbsp;
 [<img alt="BOOTSTRAP" width="32px" src="https://img.icons8.com/color/48/000000/bootstrap.png" />][#]&nbsp;
 [<img alt="JAVASCRIPT" width="32px" src="https://img.icons8.com/color/48/000000/javascript.png" />][#]&nbsp;
-[<img alt="JQUERY" width="32px" src="https://www.softbit.com.co/Content/img/dev/JQuery.png" />][#]&nbsp;
+[<img alt="JQUERY" width="32px" src="https://e7.pngegg.com/pngimages/271/958/png-clipart-1st-century-logo-brand-electric-motor-jquery-icon-blue-text.png" />][#]&nbsp;
 [<img alt="PHP" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png" />][#]&nbsp;
 [<img alt="CODEIGNITER" width="32px" src="https://i0.wp.com/dmsservicesgoa.com/dms/wp-content/uploads/2018/09/codeigniter-logo.png?fit=610%2C500&ssl=1&w=640" />][#]&nbsp;
 [<img alt="MYSQL" width="32px" src="https://styles.redditmedia.com/t5_2qm6k/styles/communityIcon_dhjr6guc03x51.png" />][#]&nbsp;
@@ -51,7 +51,7 @@ I firmly believe that I can bring much of my extensive experience in other secto
 - 
 -->
 
-[<div align="center">][#]
+[<br/><div align="center">][#]
 <!--
   [<img alt="vemmolinas.dev" width="33px" src="https://img.icons8.com/color/48/000000/web.png" />][website]
   &nbsp;
