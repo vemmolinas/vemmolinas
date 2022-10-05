@@ -50,11 +50,6 @@ I firmly believe that I can bring much of my extensive experience in other secto
 - 💬 Ask me about anything!! If I don't know the subject, we can reseach it together. 
 - 
 -->
- 
-[<div align="center">][#]
-![](https://media1.tenor.com/images/7cf5f24769193a4a1aab24f2e3d9e508/tenor.gif?itemid=13774600)
-[</div>][#]
-
 
 [<div align="center">][#]
 <!--
@@ -73,3 +68,8 @@ I firmly believe that I can bring much of my extensive experience in other secto
 [linkedin]: https://linkedin.com/in/vemmolinas
 [skype]: https://join.skype.com/invite/lxh6hpAXp0Uf
 [#]: https://github.com/vemmolinas
+
+ 
+[<div align="center">][#]
+![](https://media1.tenor.com/images/7cf5f24769193a4a1aab24f2e3d9e508/tenor.gif?itemid=13774600)
+[</div>][#]
