@@ -10,8 +10,8 @@
 [<img alt="GIT" width="32px" src="https://img.icons8.com/color/48/000000/git.png" />][#]&nbsp;
 [<img alt="BOOTSTRAP" width="32px" src="https://img.icons8.com/color/48/000000/bootstrap.png" />][#]&nbsp;
 [<img alt="JAVASCRIPT" width="32px" src="https://img.icons8.com/color/48/000000/javascript.png" />][#]&nbsp;
-[<img alt="JQUERY" width="32px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fworldvectorlogo.com%2Fes%2Flogo%2Fjquery-4&psig=AOvVaw22NsxucZYUpbqQ_35wEnCa&ust=1665093642021000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCMDeu6yLyvoCFQAAAAAdAAAAABAD" />][#]&nbsp;
-[<img alt="PHP" width="32px" src="https://www.php.net//images/logos/php-med-trans-light.gif" />][#]&nbsp;
+[<img alt="JQUERY" width="32px" src="https://w7.pngwing.com/pngs/1004/13/png-transparent-jquery-hd-logo.png" />][#]&nbsp;
+[<img alt="PHP" width="32px" src="https://pngimg.com/uploads/php/small/php_PNG50.png" />][#]&nbsp;
 [<img alt="CODEIGNITER" width="32px" src="https://i0.wp.com/dmsservicesgoa.com/dms/wp-content/uploads/2018/09/codeigniter-logo.png?fit=610%2C500&ssl=1&w=640" />][#]&nbsp;
 [<img alt="MYSQL" width="32px" src="https://styles.redditmedia.com/t5_2qm6k/styles/communityIcon_dhjr6guc03x51.png" />][#]&nbsp;
 [</div>][#]
