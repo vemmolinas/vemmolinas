@@ -7,21 +7,22 @@
 
 
 [<div align="center">][#]
-[<img alt="GIT" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][#]&nbsp;
 [<img alt="GIT" width="32px" src="https://img.icons8.com/color/48/000000/git.png" />][#]&nbsp;
-<!-- [<img alt="GITHUB" width="32px" src="https://img.icons8.com/color/48/000000/github.png" />][#]&nbsp; -->
-<!-- [<img alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][#]&nbsp; -->
-<!-- [<img alt="CSS3" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][#]&nbsp; -->
 [<img alt="BOOTSTRAP" width="32px" src="https://img.icons8.com/color/48/000000/bootstrap.png" />][#]&nbsp;
 [<img alt="JAVASCRIPT" width="32px" src="https://img.icons8.com/color/48/000000/javascript.png" />][#]&nbsp;
 [<img alt="JQUERY" width="32px" src="https://www.softbit.com.co/Content/img/dev/JQuery.png" />][#]&nbsp;
 [<img alt="PHP" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png" />][#]&nbsp;
-<!-- [<img alt="LARAVEL" width="32px" src="https://cdn.iconscout.com/icon/free/png-512/laravel-2038872-1720085.png" />][#]&nbsp; -->
 [<img alt="CODEIGNITER" width="32px" src="https://cdn.iconscout.com/icon/free/png-512/laravel-2038872-1720085.png" />][#]&nbsp;
 [<img alt="MYSQL" width="32px" src="https://styles.redditmedia.com/t5_2qm6k/styles/communityIcon_dhjr6guc03x51.png" />][#]&nbsp;
 [<img alt="DATABASES" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][#]&nbsp;
-<!-- [<img alt="CMD" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][#] -->
 [</div>][#]
+
+<!-- [<img alt="GITHUB" width="32px" src="https://img.icons8.com/color/48/000000/github.png" />][#]&nbsp; -->
+<!-- [<img alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][#]&nbsp; -->
+<!-- [<img alt="CSS3" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][#]&nbsp; -->
+<!-- [<img alt="CMD" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][#] -->
+<!-- [<img alt="LARAVEL" width="32px" src="https://cdn.iconscout.com/icon/free/png-512/laravel-2038872-1720085.png" />][#]&nbsp; -->
+<!-- [<img alt="GIT" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][#]&nbsp; -->
 
 ---
 
@@ -54,8 +55,6 @@ I firmly believe that I can bring much of my extensive experience in other secto
 [<img alt="vemmolinas | Skype" width="33px" src="https://img.icons8.com/color/48/000000/skype.png" />][skype]
   &nbsp;
 [<img alt="vemmolinas | Twitter" width="33px" src="https://img.icons8.com/color/48/000000/twitter.png" />][twitter]
-  &nbsp;
-<!-- [<img alt="vemmolinas | Instagram" width="33px" src="https://img.icons8.com/color/48/000000/instagram.png" />][instagram] -->
 [</div>][#]
 
 <!-- [website]: https://vemmolinas.dev -->
