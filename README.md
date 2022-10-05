@@ -11,7 +11,7 @@
 [<img alt="BOOTSTRAP" width="32px" src="https://img.icons8.com/color/48/000000/bootstrap.png" />][#]&nbsp;
 [<img alt="JAVASCRIPT" width="32px" src="https://img.icons8.com/color/48/000000/javascript.png" />][#]&nbsp;
 [<img alt="JQUERY" width="32px" src="https://img1.freepng.es/20180502/heq/kisspng-web-development-jquery-ui-javascript-computer-icon-jqlogo-5ae94a5d3322d7.6814333115252383652095.jpg" />][#]&nbsp;
-[<img alt="PHP" width="32px" src="https://e7.pngegg.com/pngimages/838/327/png-clipart-website-development-programming-language-computer-programming-logo-php-program-logo-blue-text-thumbnail.png" />][#]&nbsp;
+[<img alt="PHP" width="32px" src="https://e7.pngegg.com/pngimages/666/502/png-clipart-brand-php-logo-computer-file-product-breeze-blue-text-thumbnail.png" />][#]&nbsp;
 [<img alt="CODEIGNITER" width="32px" src="https://i0.wp.com/dmsservicesgoa.com/dms/wp-content/uploads/2018/09/codeigniter-logo.png?fit=610%2C500&ssl=1&w=640" />][#]&nbsp;
 [<img alt="MYSQL" width="32px" src="https://styles.redditmedia.com/t5_2qm6k/styles/communityIcon_dhjr6guc03x51.png" />][#]&nbsp;
 [</div>][#]
