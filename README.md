@@ -13,7 +13,7 @@
 [<img alt="JQUERY" width="32px" src="https://cdn.iconscout.com/icon/free/png-256/jquery-7-1175152.png" />][#]&nbsp;
 [<img alt="PHP" width="35px" src="https://pngimg.com/uploads/php/small/php_PNG50.png" />][#]&nbsp;
 [<img alt="CODEIGNITER" width="32px" src="https://i0.wp.com/dmsservicesgoa.com/dms/wp-content/uploads/2018/09/codeigniter-logo.png?fit=610%2C500&ssl=1&w=640" />][#]&nbsp;
-[<img alt="MYSQL" width="32px" src="https://styles.redditmedia.com/t5_2qm6k/styles/communityIcon_dhjr6guc03x51.png" />][#]&nbsp;
+[<img alt="MYSQL" width="30px" src="https://styles.redditmedia.com/t5_2qm6k/styles/communityIcon_dhjr6guc03x51.png" />][#]&nbsp;
 [</div>][#]
 
 <!-- 
