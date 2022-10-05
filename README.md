@@ -48,8 +48,10 @@ I firmly believe that I can bring much of my extensive experience in other secto
 
 
 [<br><div align="center">][#]
-[<img alt="vemmolinas.dev" width="33px" src="https://img.icons8.com/color/48/000000/web.png" />][website]
-&nbsp;
+<!--
+  [<img alt="vemmolinas.dev" width="33px" src="https://img.icons8.com/color/48/000000/web.png" />][website]
+  &nbsp;
+  -->
 [<img alt="vemmolinas | LinkedIn" width="33px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
   &nbsp;
 [<img alt="vemmolinas | Skype" width="33px" src="https://img.icons8.com/color/48/000000/skype.png" />][skype]
