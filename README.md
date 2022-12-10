@@ -29,7 +29,7 @@
 
 ### Hi there 👋 I'm Emmanuel
 
-I am a recently qualified web application developer and I am mostly specialized in frontend. Advanced level in HTML, CSS and JavaScript languages. Clarity and a very user-oriented vision prevail in my designs, so that the application always fulfills its fundamental mission: to solve problems effectively.
+I am web app developer mostly specialized in frontend. Advanced level in HTML, CSS and JavaScript languages. Clarity and a very user-oriented vision prevail in my designs, so that the application always fulfills its fundamental mission: to solve problems effectively.
 
 I have complementary backend knowledge, including relational database management with MySQL and information processing with PHP. Analytical and methodical, always oriented to obtain results.
 
