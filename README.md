@@ -63,10 +63,10 @@ I firmly believe that I can bring much of my extensive experience in other secto
 [</div>][#]
 
 <!-- [website]: https://vemmolinas.dev -->
-[twitter](https://twitter.com/vemmolinas){:target="_blank" rel="noopener"}
-[linkedin](https://linkedin.com/in/vemmolinas){:target="_blank" rel="noopener"}
-[skype](https://join.skype.com/invite/lxh6hpAXp0Uf){:target="_blank" rel="noopener"}
-[#](https://github.com/vemmolinas){:target="_blank" rel="noopener"}
+[twitter]: https://twitter.com/vemmolinas {:target="_blank" rel="noopener"}
+[linkedin]: https://linkedin.com/in/vemmolinas {:target="_blank" rel="noopener"}
+[skype]: https://join.skype.com/invite/lxh6hpAXp0Uf {:target="_blank" rel="noopener"}
+[#]: https://github.com/vemmolinas {:target="_blank" rel="noopener"}
 
  
 [<div align="center">][#]
