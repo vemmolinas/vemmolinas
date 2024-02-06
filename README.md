@@ -57,7 +57,7 @@ I firmly believe that I can bring much of my extensive experience in other secto
   &nbsp;
 [<img alt="vemmolinas | Skype" width="33px" src="https://img.icons8.com/color/48/000000/skype.png" />][skype]
   &nbsp;
-[<img alt="vemmolinas | Twitter" width="33px" src="https://iconos8.es/icon/phOKFKYpe00C/twitterx" />][twitter]
+[<img alt="vemmolinas | Twitter" width="33px" src="https://icons8.com/icon/phOKFKYpe00C/twitterx" />][twitter]
 [</div>][#]
 
 [website]: https://vemmolinas.dev
