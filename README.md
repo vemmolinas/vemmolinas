@@ -51,19 +51,17 @@ I firmly believe that I can bring much of my extensive experience in other secto
 -->
 
 [<br/><div align="center">][#]
-<!--
   [<img alt="vemmolinas.dev" width="33px" src="https://img.icons8.com/color/48/000000/web.png" />][website]
   &nbsp;
-  -->
 [<img alt="vemmolinas | LinkedIn" width="33px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
   &nbsp;
 [<img alt="vemmolinas | Skype" width="33px" src="https://img.icons8.com/color/48/000000/skype.png" />][skype]
   &nbsp;
-[<img alt="vemmolinas | Twitter" width="33px" src="https://img.icons8.com/color/48/000000/twitter.png" />][twitter]
+[<img alt="vemmolinas | Twitter" width="33px" src="https://iconos8.es/icon/phOKFKYpe00C/twitterx" />][twitter]
 [</div>][#]
 
-<!-- [website]: https://vemmolinas.dev -->
-[twitter]: https://twitter.com/vemmolinas 
+[website]: https://vemmolinas.dev
+[twitter]: https://x.com/vemmolinas 
 [linkedin]: https://linkedin.com/in/vemmolinas
 [skype]: https://join.skype.com/invite/lxh6hpAXp0Uf
 [#]: https://github.com/vemmolinas
