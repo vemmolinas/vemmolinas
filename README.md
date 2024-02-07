@@ -29,17 +29,16 @@
 
 ### Hi there 👋 I'm Emmanuel
 
-I am web app developer mostly specialized in frontend. Advanced level in HTML, CSS and JavaScript languages. Clarity and a very user-oriented vision prevail in my designs, so that the application always fulfills its fundamental mission: to solve problems effectively.
+Enthusiast since the Windows 95 and MS-DOS era, who turned his passion into his career. After years in administration, accounting and customer service, I made the leap to Web development.
 
-I have complementary backend knowledge, including relational database management with MySQL and information processing with PHP. Analytical and methodical, always oriented to obtain results.
+My 4 years experience in the industry has given me a solid foundation in backend (PHP and MySQL) and has pushed me to explore frontend development with React. I have a deep interest in user experience and design intuitive and easy to use web interfaces.
 
-I firmly believe that I can bring much of my extensive experience in other sectors, as well as the enthusiasm of a person who has taken a complete turn to pursue his or her true passion.
-
+My goal is to create web applications that effectively solve real problems and have a positive impact on end users. There is nothing more rewarding for me than seeing how my solutions make people's lives easier.
 
 <!-- -->
 - 🌱 I’m currently learning about front-end technologies, specially React.
 - 👯 I’m looking to collaborate on front-end projects.
-- ⚡ Fun fact: Even though it sounds like a girl's name, my friends call me Emma.
+- ⚡ Fun fact: Beyond the keyboard, I'm a handyman who enjoys DIY and is always on the lookout for new projects.
 
 <!-- 
 - 😄 Pronouns: he/him.
