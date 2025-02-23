@@ -7,9 +7,11 @@
 
 [<div align="center">][#]
 [<img alt="GIT" width="32px" src="https://img.icons8.com/color/48/000000/git.png" />][#]&nbsp;
-[<img alt="JAVASCRIPT" width="32px" src="https://img.icons8.com/color/48/000000/javascript.png" />][#]&nbsp;
+[<img alt="JAVASCRIPT" width="32px" src="https://img.icons8.com/?size=256&id=123603&format=png" />][#]&nbsp;
+[<img alt="REACT" width="32px" src="https://img.icons8.com/color/48/000000/javascript.png" />][#]&nbsp;
 [<img alt="BOOTSTRAP" width="32px" src="https://img.icons8.com/color/48/000000/bootstrap.png" />][#]&nbsp;
 [<img alt="PHP" width="35px" src="https://pngimg.com/uploads/php/small/php_PNG50.png" />][#]&nbsp;
+[<img alt="LARAVEL" width="35px" src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/laravel-3.png" />][#]&nbsp;
 [<img alt="MYSQL" width="30px" src="https://styles.redditmedia.com/t5_2qm6k/styles/communityIcon_dhjr6guc03x51.png" />][#]&nbsp;
 [</div>][#]
 
@@ -36,7 +38,7 @@ My goal is to create web applications that effectively solve real problems and h
 <!-- -->
 - 🌱 I’m currently learning about front-end technologies, specially React.
 - 👯 I’m looking to collaborate on front-end projects.
-- ⚡ Fun fact: Beyond the keyboard, I'm a handyman who enjoys DIY and is always on the lookout for new projects.
+- ⚡ Fun fact: Beyond the code, I'm a handyman who enjoys DIY and I'm always looking for new projects.
 
 <!-- 
 - 😄 Pronouns: he/him.
@@ -53,9 +55,6 @@ My goal is to create web applications that effectively solve real problems and h
 [<img alt="vemmolinas | LinkedIn" width="33px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
   &nbsp;
 [<img alt="vemmolinas | Skype" width="33px" src="https://img.icons8.com/color/48/000000/skype.png" />][skype]
-  &nbsp;
-[<img alt="vemmolinas | Twitter" width="33px" src="https://www.recicladocreativo.com/wp-content/uploads/2023/10/twitter-x-logo.png" />][twitter]
-[</div>][#]
 
 [website]: https://vemmolinas.dev
 [twitter]: https://x.com/vemmolinas 
